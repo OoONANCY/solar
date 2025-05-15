@@ -9557,4 +9557,41 @@ textarea.form-control {
   }
 }
 
+.services-layout17 .portfolio-item .portfolio__body {
+    bottom: -121px;
+  }
+
+.services-layout17 .portfolio-item .portfolio__desc {
+    font-size: 14px;
+    opacity: 0;
+    margin-top: 0;
+  }
+
+.services-layout17 .portfolio-item:hover .portfolio__desc {
+    opacity: 1;
+    margin-top: 10px;
+  }
+
+.services-layout17 .slick-arrow {
+    top: 43%;
+  }
+
+.services-layout17 .portfolio-item {
+  overflow: hidden;
+  padding-bottom: 140px;
+}
+
+.services-layout17 .portfolio-item .portfolio__body {
+  position: absolute;
+  bottom: -166px;
+  left: 0;
+}
+
+.services-layout17 .portfolio-item:hover .portfolio__body {
+  bottom: 0;
+}
+
+
+
+
 /*# sourceMappingURL=style.css.map */
